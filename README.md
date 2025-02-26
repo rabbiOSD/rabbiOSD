@@ -1,4 +1,3 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEYzmL9vKSa9Q/profile-displaybackgroundimage-shrink_350_1400/B4EZU98EDYHUAY-/0/1740500912605?e=1746057600&v=beta&t=WVw_C_OJ2xNJ3PxekbK3y-B6L0GfQ16ja3BJmtKuhDo)
 ### Hi there 👋, I'm Md Fazle Rabbi
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEYzmL9vKSa9Q/profile-displaybackgroundimage-shrink_350_1400/B4EZU98EDYHUAY-/0/1740500912605?e=1746057600&v=beta&t=WVw_C_OJ2xNJ3PxekbK3y-B6L0GfQ16ja3BJmtKuhDo)
@@ -24,5 +23,4 @@ Skills: MYSQL/REACT / JS / HTML / CSS / PHP
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbiOSD&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabbiOSD)  
-
 
