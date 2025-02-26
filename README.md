@@ -1,6 +1,8 @@
+![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEYzmL9vKSa9Q/profile-displaybackgroundimage-shrink_350_1400/B4EZU98EDYHUAY-/0/1740500912605?e=1746057600&v=beta&t=WVw_C_OJ2xNJ3PxekbK3y-B6L0GfQ16ja3BJmtKuhDo)
+
 ### Hi there 👋, I'm Md Fazle Rabbi
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEYzmL9vKSa9Q/profile-displaybackgroundimage-shrink_350_1400/B4EZU98EDYHUAY-/0/1740500912605?e=1746057600&v=beta&t=WVw_C_OJ2xNJ3PxekbK3y-B6L0GfQ16ja3BJmtKuhDo)
+
 
 I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React US, JavaScript as well as PHP.
 
